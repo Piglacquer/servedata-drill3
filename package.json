@@ -10,8 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/Piglacquer/servedata-drill3.git"
   },
-  "author": "",
+  "author": "patrick",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Piglacquer/servedata-drill2/issues"
+  },
   "dependencies": {
     "cors": "^2.8.4",
     "express": "^4.16.2",

@@ -48,7 +48,7 @@ function idCall(data, idNum) {
 }
 
 app.get("/", function(request, response) {
-  response.json(data)
+  response.json({data})
 })
 
 app.get("/:id", function(request, response) {
